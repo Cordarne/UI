@@ -13,10 +13,10 @@ export const roboto = Roboto({
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#556cd6',
+      main: '#FEDA15',
     },
     secondary: {
-      main: '#19857b',
+      main: '#F7F7F8',
     },
     error: {
       main: red.A400,
